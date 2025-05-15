@@ -19,9 +19,7 @@
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [ESP32 Drone Controller](https://github.com/saurb-yadav) | PID-based drone with mobile app control | ESP32, MPU6050, PWM, Embedded C |
-| [Voice-Controlled Home Automation](https://github.com/saurb-yadav) | Voice-activated switches using ESP32 | ESP32-WROOM, IoT, Arduino |
-| [Waveguide Simulation in HFSS](https://github.com/saurb-yadav) | Automated HFSS model via PyAEDT | Python, HFSS, PyAEDT |
-| [LTE Signal-Based Location Mapping](https://github.com/saurb-yadav) | Indoor location tracking using LTE signals | Python, KNN, Data Analysis |
+
 
 ---
 
