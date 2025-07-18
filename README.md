@@ -18,7 +18,7 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [ESP32 Drone Controller](https://github.com/saurb-yadav) | PID-based drone with mobile app control | ESP32, MPU6050, PWM, Embedded C |
+| [ESP32 Drone Controller](https://github.com/saurb-yadav/ESP32-Based-Flight-Controller) | PID-based drone with mobile app control | ESP32, MPU6050, PWM, Embedded C |
 
 
 ---
